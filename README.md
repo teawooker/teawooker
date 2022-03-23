@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @teawooker
+- 👀 I’m interested in nodejs
+- 🌱 I’m currently learning coding
